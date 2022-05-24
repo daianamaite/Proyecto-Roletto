@@ -127,6 +127,7 @@ main{
     padding: 70px;
 }
 .tipografia-style:hover{
+    color: #d6d6d6;
     transition: all 2s;
     transform:scale(2);
 }
