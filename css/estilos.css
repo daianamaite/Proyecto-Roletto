@@ -28,7 +28,11 @@ html{
 3- foont tamaños 
 4- background-color color
 */
-
+.fondo{
+    height: 90vh;
+    background-color: #8C5C4A;
+    background-image: linear-gradient( to top left , #8C5C4A , #D98C5F , #F2C48D );
+}
 header{
     margin: 0px;
     width: 100%;
@@ -65,6 +69,10 @@ background-color:#8C5C4A;
 .logo{
     padding: 10px;
     height: 150px;
+}
+.logo:hover{
+    transition: all 2s;
+    transform: scale(2);
 }
 
 /**.nav1 li{
@@ -118,6 +126,10 @@ main{
     text-decoration:underline ;
     padding: 70px;
 }
+.tipografia-style:hover{
+    transition: all 2s;
+    transform:scale(2);
+}
 .tipografiaStylePedidosPersonalizados{
     font-size: 25px;
     text-align: center;
@@ -162,6 +174,7 @@ main{
 .sectionBannerIndex a:hover{
     color: #8C3D20;
 }
+
 /**.imgPrincipal{
     width: 100%;
     height: 1000px;
