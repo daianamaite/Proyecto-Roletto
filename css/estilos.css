@@ -203,7 +203,7 @@ main{
     width: 100%;
     height: 400px;
     padding: 50px;
-    background-image: url(/img/cakeFrutoRojo.jpg);
+    background-image: url(../img/cakeFrutoRojo.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -258,7 +258,7 @@ main{
     width: 100%;
     height: 600px;
     padding: 15px;
-    background-image: url(/img/selvaNegra.jpg);
+    background-image: url(../img/selvaNegra.jpg);
     background-size: cover;
     background-position: center;
 }
