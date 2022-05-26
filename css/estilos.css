@@ -67,8 +67,7 @@ background-color:#8C5C4A;
 }
 
 .logo{
-    padding: 10px;
-    height: 150px;
+    height: 160px;
 }
 .logo:hover{
     transition: all 2s;
