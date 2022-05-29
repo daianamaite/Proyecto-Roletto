@@ -48,6 +48,29 @@ nav{
 padding: 5px;
 background-color:#8C5C4A;
 }
+/*Personizando NavBar bootstrap*/
+
+.fondoNavBar{
+    background-color: #8C5C4A;
+}
+.navbar-nav li{
+    font-size: 17px;
+}
+.navbar-nav li a{
+    text-decoration: none;
+    color: #672d18;
+}
+.navbar-nav a:hover{
+    color: #d6d6d6;
+}
+/*carousel*/
+.tamañocarousel{
+    height: 600px;
+    width: 900px;
+    justify-content: center;
+}
+
+
 .nav1 ul{
     display: flex;
     justify-content: center;
@@ -67,7 +90,7 @@ background-color:#8C5C4A;
 }
 
 .logo{
-    height: 160px;
+    height: 140px;
 }
 .logo:hover{
     transition: all 2s;
